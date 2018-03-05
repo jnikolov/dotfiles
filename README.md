@@ -1,2 +1,2 @@
-#dotfiles
-Arch dotfiles
+# dotfiles
+  Arch configs and scripts
